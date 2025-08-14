@@ -1,8 +1,21 @@
   
 
-> **Data Source:** 20,000 individuals’ financial literacy dataset (2020–2024)  
 > **Tools:** Tableau, Python 
 > **Skills:** Data Cleaning, Data Visualization, Storytelling, Insight Generation  
+# Data Sources & Simulation
+
+This folder contains datasets and synthetic data used for financial literacy and personal finance dashboards.
+
+## Sources
+- **BLS.gov** – Spending by Age Range, 2023  
+- **Financial Literacy Dataset (CSV)** – `financial-literacy-data.csv`  
+- **Reference Age Range Dataset (XLSX)** – `reference-person-age-ranges-2023.xlsx`  
+- **Personal Finance Dataset (Synthetic)** – generated transaction data for realistic patterns
+
+## Datasets
+1. **Financial Literacy** – 20,000 rows, 27 columns; demographics, spending, savings  
+2. **Reference Age Range** – XLSX; used for demographic-based simulation  
+3. **Personal Finance (Synthetic)** – simulates personal transactions and spending behavior
 
 ---
 
