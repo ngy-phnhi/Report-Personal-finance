@@ -1,7 +1,7 @@
-<img width="1179" height="728" alt="image" src="https://github.com/user-attachments/assets/87f3959e-0149-4ad9-b2be-53d84595fbc6" /># 📊 Personal Finance Analysis – From Big Picture to Personal Action Plan  
+  
 
 > **Data Source:** 20,000 individuals’ financial literacy dataset (2020–2024)  
-> **Tools:** Power BI, Excel  
+> **Tools:** Tableau, Python 
 > **Skills:** Data Cleaning, Data Visualization, Storytelling, Insight Generation  
 
 ---
@@ -26,10 +26,10 @@ This project aims to **analyze financial behaviors** at both the community and p
 
 ---
 
-## 📈 3. Dashboard 1 – Community Overview  
+## 📈 3. Dashboard 1 –  Overview  
 
-![Dashboard Overview](<img width="1184" height="719" alt="image" src="https://github.com/user-attachments/assets/c43455bb-edc4-4961-9a59-08a0a24cae8b" />
-)
+<img width="1196" height="744" alt="image" src="https://github.com/user-attachments/assets/32b30ceb-6197-4974-9b8c-e41148c0fff0" />
+
 
 **Key Insights:**  
 - **Avg Income:** 74,503 | **Avg Expenses:** 66,196 | **Avg Savings:** 8,307 (~11%).  
@@ -42,8 +42,8 @@ This project aims to **analyze financial behaviors** at both the community and p
 
 ## 👤 4. Dashboard 2 – Personal Finance (2020–2024)  
 
-![Dashboard Personal](<img width="1179" height="728" alt="image" src="https://github.com/user-attachments/assets/a0c57029-9764-425a-b5d2-af677e738c7c" />
-)
+<img width="1183" height="786" alt="image" src="https://github.com/user-attachments/assets/1d5cd650-3a15-4234-ba48-a8cbe548bb51" />
+
 
 **Key Insights:**  
 - **Income:** 883,141 | **Expenses:** 1,078,141 → **Deficit: -195,000**.  
@@ -80,7 +80,7 @@ This project aims to **analyze financial behaviors** at both the community and p
 ## 📄 7. Detailed Report  
 
 Full methodology, detailed analysis, and additional charts are documented in:  
-**[Group 10 Report](./Group10_Report.pdf)**  
+**[Group 10 Report]([./Group10_Report.pdf](https://github.com/ngy-phnhi/Report-Personal-finance/blob/main/BaoCao_Nhom_10.pdf))**  
 (includes raw data cleaning steps, statistical analysis, and extended insights beyond the dashboards).
 
 
