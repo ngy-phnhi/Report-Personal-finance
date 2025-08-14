@@ -2,7 +2,7 @@
 
 > **Tools:** Tableau, Python 
 > **Skills:** Data Cleaning, Data Visualization, Storytelling, Insight Generation
-# # Personal finance analysis
+# # Personal Finance Visualization
 
 ## Data Sources & Simulation
 This folder contains datasets and synthetic data used for financial literacy and personal finance dashboards.
